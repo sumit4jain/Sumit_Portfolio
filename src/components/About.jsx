@@ -37,8 +37,8 @@ const About = ({ isDark }) => {
               <div className={`${isDark ? 'text-gray-400' : 'text-gray-600'}`}>Projects Completed</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl font-bold text-green-500">100%</div>
-              <div className={`${isDark ? 'text-gray-400' : 'text-gray-600'}`}>Client Satisfaction</div>
+              
+              
             </div>
           </div>
         </div>
